@@ -13,14 +13,17 @@ To run the game, follow these steps:
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jguzman42/Blackjack
 ```
-
-Replace `<repository-url>` with the URL of this repository.
 
 2. **Open the HTML File:** Navigate to the directory where you cloned the repository and open the `index.html` file in your web browser.
 
-3. **Start Playing:** Once the page loads, you'll see the game interface. Click the "Start Game" button to begin. Follow the on-screen instructions to draw cards and play Blackjack.
+```bash
+cd Blackjack
+start index.html
+```
+
+4. **Start Playing:** Once the page loads, you'll see the game interface. Click the "Start Game" button to begin. Follow the on-screen instructions to draw cards and play Blackjack.
 
 ## How to Play
 
